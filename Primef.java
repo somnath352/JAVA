@@ -1,3 +1,5 @@
+//Check a number is prime or not using for loop
+
 import java.util.*;
 public class Primef {
     public static void main(String[]args){
